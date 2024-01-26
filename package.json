@@ -2,7 +2,7 @@
     "name": "youth",
     "version": "0.1.0",
     "private": true,
-    "homepage": "httpsgit ://pigsel7.github.io/youth",
+    "homepage": "https://pigsel7.github.io/youth",
     "dependencies": {
         "@testing-library/jest-dom": "^5.17.0",
         "@testing-library/react": "^13.4.0",
