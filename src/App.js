@@ -145,12 +145,6 @@ function App() {
                 </div>
                 <Today2 />
             </div>
-            <div className="footer">
-                by{" "}
-                <a href="https://t.me/pigsel8" target="_blank">
-                    PIGsel8
-                </a>
-            </div>
         </div>
     );
 }

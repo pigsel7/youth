@@ -82,6 +82,7 @@ export const advice = [
     { name: "Вика Бузина", checked: false, date: "" },
     { name: "Марина Чемерисова", checked: false, date: "" },
     { name: "Юра Бузина", checked: false, date: "" },
+    { name: "Оля Голованова", checked: false, date: "" },
 ];
 
 export const queue = [
@@ -97,7 +98,8 @@ export const queue = [
 
 export const queue2 = [
     8, 1, 2, 9, 6, 0, 7, 5, 4, 3, 9, 2, 5, 6, 7, 1, 0, 8, 4, 3, 2, 3, 7, 5, 4,
-    1, 6, 0, 9, 8, 5, 2, 6, 0, 9, 4, 3, 8, 7, 1,
+    1, 6, 0, 9, 8, 5, 2, 6, 0, 9, 4, 3, 8, 7, 1, 10, 6, 5, 1, 2, 8, 9, 4, 0, 7,
+    3,
 ];
 
 export const dates = [
